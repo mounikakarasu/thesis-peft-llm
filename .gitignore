@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.venv
+*.conda
+*.egg-info/
+.ipynb_checkpoints/
+outputs/models/
+outputs/logs/
+outputs/kd_logits/
+outputs/results/
